@@ -1,0 +1,16 @@
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csprojAssemblyReference.cache
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.AssemblyInfoInputs.cache
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.AssemblyInfo.cs
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csproj.CoreCompileInputs.cache
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/ShowCase
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.deps.json
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.runtimeconfig.json
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.runtimeconfig.dev.json
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.dll
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/ShowCase.pdb
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/StringLibrary.dll
+/home/budash/learn/dlibrary/ShowCase/bin/Debug/netcoreapp3.1/StringLibrary.pdb
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.csproj.CopyComplete
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.dll
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.pdb
+/home/budash/learn/dlibrary/ShowCase/obj/Debug/netcoreapp3.1/ShowCase.genruntimeconfig.cache
